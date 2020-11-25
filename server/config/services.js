@@ -58,7 +58,7 @@ module.exports = {
   },
   service4: {
     api: '/homes/:id/cost',
-    url: 'hhttp://18.224.2.166:8082/',
+    url: 'http://3.21.164.165:8082/',
     bundle: 'bundle.js',
   },
 };
