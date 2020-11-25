@@ -43,22 +43,22 @@
 module.exports = {
   service1: {
     api: '/homes/:id/listing',
-    url: 'http://localhost:8080',
+    url: 'http://52.53.208.94:8080/',
     bundle: 'bundle.js',
   },
   service2: {
     api: '/homes/:id/bookings',
-    url: 'http://localhost:8081',
+    url: 'http://54.215.194.204:8081/',
     bundle: 'bundle.js',
   },
   service3: {
     api: '/homes/:id/reviews',
-    url: 'http://localhost:8000',
+    url: 'http://3.20.225.2:8000/',
     bundle: 'bundle.js',
   },
   service4: {
     api: '/homes/:id/cost',
-    url: 'http://localhost:8082',
+    url: 'hhttp://18.224.2.166:8082/',
     bundle: 'bundle.js',
   },
 };
