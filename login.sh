@@ -1,1 +1,1 @@
-ssh -i 'hrsftrulia.pem' ubuntu@ec2-54-215-194-204.us-west-1.compute.amazonaws.com
+ssh -i "helloWorld.pem" ubuntu@ec2-3-101-16-179.us-west-1.compute.amazonaws.com
