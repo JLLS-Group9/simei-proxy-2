@@ -43,7 +43,7 @@
 module.exports = {
   service1: {
     api: '/homes/:id/listing',
-    url: 'http://52.53.208.94:8080/',
+    url: 'http://13.56.233.74:8080/',
     bundle: 'bundle.js',
   },
   service2: {
@@ -53,7 +53,7 @@ module.exports = {
   },
   service3: {
     api: '/homes/:id/reviews',
-    url: 'http://3.20.225.2:8000/',
+    url: 'http://3.138.183.37:8000/',
     bundle: 'bundle.js',
   },
   service4: {
